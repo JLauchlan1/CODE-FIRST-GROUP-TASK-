@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link href='https://fonts.googleapis.com/css?family=Francois+One' rel='stylesheet' type='text/css'>
+	<title>Year Abroad Jordan</title> 
+
+<style>
+  body {
+    text-align: center;
+    font-family: 'Francois One', sans-serif;
+  }
+
+  header {
+    text-align: center;
+    background: url("https://scontent-lhr3-1.xx.fbcdn.net/hphotos-ash2/v/t1.0-9/1911818_10153262031079097_3139098055644395840_n.jpg?oh=bfd6ec110fcbdde36d11abe309c97595&oe=574D645B");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center bottom;
+    margin: -50px -20px 0 -20px;
+   padding-top: 100px;
+  }
+
+  a {
+      color: white;
+      padding-right: 20px;
+  }
+
+  h1 {
+    font-size: 100px;
+    font-family: 'Francois One', sans-serif;
+    color: #0B3B0B;
+    margin-bottom: 100px;
+  }
+
+  h2 {
+    font-family: 'Francois One', sans-serif;
+    margin-top: -40px;
+    color: white;
+  }
+  
+  img {
+    border: 7px solid white;
+    border-radius: 20px;
+  }
+
+  ul {
+    background: rgba(15, 50, 49, 0.54);
+  }
+
+  div {
+  height: 550px;
+  width: 550px;
+  background-size: cover;
+  position: relative;
+  margin: 10px 0 10px 0;
+  border-radius: 12px;
+  font-size: 30px;
+  border: 7px solid white;
+  border-radius: 20px;
+}
+
+
+  </style>
+
+</head>
+
+<body>
+    <header>
+  <body bgcolor=#F8E6E0>
+    <h1><i>Year Abroad in Jordan</i></h1>
+  
+    <ul>
+  <a href="https://www.facebook.com/alice.nicholl.12">Facebook</a>
+  <a href="https://www.linkedin.com/in/alice-nicholl-58402510a?trk=hp-identity-name">LinkedIn</a>
+      </ul>
+</header>
+
+
+  </body>
+
+</html>
